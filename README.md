@@ -1,16 +1,52 @@
-## Hi there 👋
+## Hi there 👋 I'm Desmond Ugegeh
 
-<!--
-**DesmondOghanihun/DesmondOghanihun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A highly analytical Ph.D. Researcher transitioning into Applied Data Science & Machine Learning Engineering.**
 
-Here are some ideas to get you started:
+I specialize in leveraging advanced computational techniques, particularly **Machine Learning (ML)**, **Artificial Intelligence (AI)**, and **Geographic Information Systems (GIS)**, to solve complex real-world problems in environmental, conservation, and resource management domains. My expertise is grounded in strong statistical modeling, end-to-end data analysis, and scalable predictive modeling using Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Key Focus Areas & Expertise
+
+| Area | Focus | Key Tools & Libraries |
+| :--- | :--- | :--- |
+| **Data Science & ML** | Predictive Modeling, Deep Learning (Ph.D. Focus), Advanced Statistical Analysis (Time-Series, ANOVA, Regression) | Python (Scikit-learn, TensorFlow/Keras, NumPy, Pandas) |
+| **Data Engineering** | Data Wrangling, Database Management, Data Visualization, ETL Fundamentals | SQL (PostgreSQL, MySQL Fundamentals), Power BI, Tableau |
+| **Geospatial & Remote Sensing** | Spatial Analysis, Cartography, Hyperspectral Data Application, ICT-GIS Integration | Python (GeoPandas, Folium, Rasterio), NASA Remote Sensing Training |
+| **Domain Expertise** | Computational Ecology, Marine Science, Conservation, Resource Assessment | Fisheries Biology, Environmental Genomics (eDNA), Aquatic Pollution Studies |
+
+---
+
+### 🔭 Current Work & Projects
+
+* **Ph.D. Research (In Progress):** Developing and applying **Machine Learning Algorithms** to assess microbiodiversity, water quality, and management of fish pond ecosystems (Predictive Modeling for Environmental Health).
+* **Geospatial Integration Project:** Building Python-based cartographic tools (using GeoPandas/Folium) for the visualization and analysis of coastal system data, integrating **Remote Sensing** and **GIS** outputs.
+* **Academic Data Analysis:** Utilizing advanced Python statistical libraries to support research projects, specializing in robust time-series and multivariate analysis.
+
+### 🌱 I’m currently improving my skills in...
+
+* **Cloud Platforms:** Focusing on **Azure Data Engineer (DP-203)** certification to solidify skills in scalable data pipeline development and cloud infrastructure deployment.
+* **Big Data Frameworks:** Exploring distributed computing concepts using tools like PySpark for handling large-scale environmental datasets.
+
+### 👯 I’m looking to collaborate on...
+
+* Open-source Data Science projects related to **Climate Change, Computational Ecology, or Environmental Sustainability** (especially those utilizing ML/AI and GIS).
+* End-to-end projects that require building **scalable data pipelines** from raw data to deployed predictive models.
+
+### 💬 Ask me about...
+
+* Predictive modeling for conservation and resource management.
+* Integrating GIS and Remote Sensing data with Python for spatial analysis.
+* Advanced statistical modeling techniques in ecological data.
+
+### 📫 How to reach me:
+
+| Platform | Handle/Link |
+| :--- | :--- |
+| **Email** | desmondugegeh@gmail.com |
+| **LinkedIn** | [linkedin.com/in/desmond-ugegeh-176a03a0](https://www.linkedin.com/in/desmond-ugegeh-176a03a0) |
+| **Google Scholar** | [Scholar Profile](https://scholar.google.com/citations?hl=en&user=m3msS7AAAAAJ) (For publications) |
+
+### ⚡ Fun fact:
+
+Beyond the data, I am an experienced researcher who has taught diverse courses in Marine Science, ranging from Oceanic Magmas to Chemical Modelling of Climate Change. I bring a deep, multi-disciplinary understanding of the complex systems data is drawn from.
